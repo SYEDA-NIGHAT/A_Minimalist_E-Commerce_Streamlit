@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "description": "Ergonomic wireless mouse with fast response."
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 79.99,
+    "description": "RGB mechanical keyboard with tactile switches."
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "price": 39.99,
+    "description": "6-in-1 USB-C hub for your laptop and phone."
+  },
+  {
+    "id": 4,
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "description": "Aluminum adjustable laptop stand."
+  },
+  {
+    "id": 5,
+    "name": "Noise Cancelling Headphones",
+    "price": 149.99,
+    "description": "Over-ear headphones with active noise cancellation."
+  },
+  {
+    "id": 6,
+    "name": "Webcam 1080p",
+    "price": 45.00,
+    "description": "Full HD webcam for video calls and streaming."
+  },
+  {
+    "id": 7,
+    "name": "Portable SSD 1TB",
+    "price": 109.99,
+    "description": "Fast, reliable external solid state drive."
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker",
+    "price": 35.99,
+    "description": "Waterproof mini speaker with rich sound."
+  }
+]
